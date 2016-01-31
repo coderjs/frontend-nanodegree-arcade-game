@@ -1,6 +1,18 @@
-frontend-nanodegree-arcade-game
+FROGGER ARCADE GAME
 ===============================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+OBJECTIVE: 
+1. Navigate your player across the road to the water.
+2. Avoid the enemy bugs along the way.
+3. Earn as many points as you can.
+4. Player has 4 lives per game. 
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+HOW TO PLAY: 
+1. Open index.html in your browser.
+2. Use your arrow keys navigate across the road.
+3. Stay within the boundaries of the board (governed).
+4. Avoid colliding with an enemy bugs. 
+5. If you do touch a bug, you lose a life and automatically reset to starting position.
+6. If you reach the water without colliding into any bugs, you earn one point. 
+7. You have four lives total to earn as many points as you can. 
+8. Have fun!

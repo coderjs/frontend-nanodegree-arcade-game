@@ -82,6 +82,7 @@ var Player = function(x,y) {
 
 // Update the Player's position
 Player.prototype.update = function() {
+  "use strict";
   //collision detection
   "use strict";
   this.checkCollisions();

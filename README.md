@@ -1,5 +1,7 @@
 FROGGER ARCADE GAME
 ===============================
+PLAY ONLINE:
+You can play the game online here: http://coderjs.github.io/frontend-nanodegree-arcade-game/
 
 OBJECTIVE: 
 1. Navigate your player across the road to the water.
